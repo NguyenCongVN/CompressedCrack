@@ -28,3 +28,5 @@ optional arguments:
                         Insert the file path of compressed file
                         
 ```                       
+
+python C:\Users\NguyenCong\Documents\GitHub\CompressedCrack\crack.py -i C:\Users\NguyenCong\Documents\GitHub\CompressedCrack\Chuong-6.rar
