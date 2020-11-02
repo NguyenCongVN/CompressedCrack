@@ -29,4 +29,4 @@ optional arguments:
                         
 ```                       
 
-python C:\Users\NguyenCong\Documents\GitHub\CompressedCrack\crack.py -i C:\Users\NguyenCong\Documents\GitHub\CompressedCrack\Chuong-6.rar
+python crack.py -i Chuong-6.rar
